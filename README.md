@@ -1,2 +1,4 @@
 # WebTechTeamProject
 Wellness360 - a web application designed to help users track and improve their overall well-being. 
+
+We are developing a data-powered website to help individuals track and improve their overall wellness, by providing a centralized platform to monitor fitness, sleep, hydration, and mental well-being. It allows users to log key aspects of their health, such as fitness(exercises), hydration, sleep, and mental wellness(mood), offering a holistic view of their progress. Users can set personalized goals, receive wellness insights, and monitor their performance over time. Our platform would allow wellness coaches to provide feedback and guidance based on user data, making the platform useful for both individuals and wellness professionals. The system aims to centralize health-related data for better organization and insights.
